@@ -31,4 +31,7 @@ This project includes:
     recommendation.ipynb
     ```
     Note: The A/B testing and unit tests have been provided in respective notebooks 
-5. 
+5. **Run the mock api integration to return results on data fetched from the user**:
+    ```bash
+    python mock_api_integration.py
+    ```
