@@ -13,7 +13,7 @@ This project includes:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/ai-ab-testing.git
+    git repo clone jahnvisikligar/MyIndia_Assessment
     cd ai-ab-testing
     ```
 
@@ -35,16 +35,10 @@ This project includes:
 
 5. **Run the content generation script**:
     ```bash
-    python content_generation.py
+    python content_generation.ipynb
     ```
 
 6. **Run the recommendation script**:
     ```bash
-    python recommendation.py
+    python recommendation.ipynb
     ```
-
-## Running Unit Tests
-
-To run the unit tests, use the following command:
-```bash
-pytest tests/
