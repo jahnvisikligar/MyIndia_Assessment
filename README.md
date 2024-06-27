@@ -14,8 +14,7 @@ This project includes:
 1. **Clone the repository**:
     ```bash
     git repo clone jahnvisikligar/MyIndia_Assessment
-    cd ai-ab-testing
-    ```
+        ```
 
 2. **Install dependencies**:
     ```bash
