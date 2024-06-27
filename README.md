@@ -1,7 +1,5 @@
 # MyIndia_Assessment
 
-# AI Models with A/B Testing and Mock API Integrations
-
 ## Overview
 
 This project includes:
@@ -14,7 +12,7 @@ This project includes:
 1. **Clone the repository**:
     ```bash
     git repo clone jahnvisikligar/MyIndia_Assessment
-        ```
+    ```
 
 2. **Install dependencies**:
     ```bash
@@ -26,18 +24,11 @@ This project includes:
       ```
       OPENAI_API_KEY=your_openai_api_key
       ```
-
-4. **Run the mock API**:
+      
+4. **Run the content generation and recommendation notebook either as Jupyter Notebook or in Google Colab**:
     ```bash
-    python mock_api.py
+    content_generation.ipynb
+    recommendation.ipynb
     ```
-
-5. **Run the content generation script**:
-    ```bash
-    python content_generation.ipynb
-    ```
-
-6. **Run the recommendation script**:
-    ```bash
-    python recommendation.ipynb
-    ```
+    Note: The A/B testing and unit tests have been provided in respective notebooks 
+5. 
